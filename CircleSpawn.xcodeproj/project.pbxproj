@@ -11,6 +11,7 @@
 		F507A4BD22382368009C9255 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F507A4BC22382368009C9255 /* ViewController.swift */; };
 		F507A4C22238236D009C9255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F507A4C12238236D009C9255 /* Assets.xcassets */; };
 		F51700AE223CDACC001AFEA4 /* ColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51700AD223CDACC001AFEA4 /* ColorExtensions.swift */; };
+		F51700B2223D031E001AFEA4 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51700B1223D031E001AFEA4 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F507A4C12238236D009C9255 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F507A4C62238236D009C9255 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F51700AD223CDACC001AFEA4 /* ColorExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtensions.swift; sourceTree = "<group>"; };
+		F51700B1223D031E001AFEA4 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F507A4C12238236D009C9255 /* Assets.xcassets */,
 				F507A4C62238236D009C9255 /* Info.plist */,
 				F51700AD223CDACC001AFEA4 /* ColorExtensions.swift */,
+				F51700B1223D031E001AFEA4 /* CircleView.swift */,
 			);
 			path = CircleSpawn;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F51700B2223D031E001AFEA4 /* CircleView.swift in Sources */,
 				F507A4BD22382368009C9255 /* ViewController.swift in Sources */,
 				F507A4BB22382368009C9255 /* AppDelegate.swift in Sources */,
 				F51700AE223CDACC001AFEA4 /* ColorExtensions.swift in Sources */,
